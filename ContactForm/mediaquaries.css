@@ -4,3 +4,11 @@
         gap: 0em;
     }
 }
+
+@media (max-height: 850px){
+
+    html body{
+    height: auto;
+    padding: 2em;
+    }
+}
